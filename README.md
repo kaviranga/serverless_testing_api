@@ -1,2 +1,2 @@
-# test_ainize
-This is for testing ainize
+# test_serverless
+This is for testing serverless
